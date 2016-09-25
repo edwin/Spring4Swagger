@@ -16,4 +16,5 @@ How to Build
 
 Result
 -------------------
-![Swagger UI](https://raw.githubusercontent.com/edwinkun/Spring4Swagger/master/img/swaggerresult.PNG)
+![Swagger UI Part 1](https://raw.githubusercontent.com/edwinkun/Spring4Swagger/master/img/swaggerresult.PNG)
+![Swagger UI Part 2](https://raw.githubusercontent.com/edwinkun/Spring4Swagger/master/img/swaggerresult2.PNG)
